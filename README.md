@@ -1,4 +1,4 @@
-**# Pharmacy_Trials_Python**
+## Pharmacy Trials Python
 
 In this study, 250 mice were treated through a variety of drug regimes over the course of 45 days. 
 Their physiological responses were then monitored over the course of that time. 
@@ -15,9 +15,9 @@ To do this I am tasked with:
 
 **Tools Used:**
 
-Python libraries: Pandas, Matplotlib, Numpy, Scipy
+* Python libraries: Pandas, Matplotlib, Numpy, Scipy
 
-Jupyter Notebook
+* Jupyter Notebook
 
 
 **Graphed Results**
