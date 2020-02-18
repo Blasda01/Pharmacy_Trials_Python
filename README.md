@@ -12,7 +12,7 @@ To do this I am tasked with:
 * Creating a scatter plot that shows the number of mice still alive through the course of treatment (Survival Rate)
 * Creating a bar graph that compares the total % tumor volume change for each drug across the full 45 days.
 
-**Tools Used:**
+**Tools Used:**  
 
 * Python libraries: Pandas, Matplotlib, Numpy, Scipy
 
