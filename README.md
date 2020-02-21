@@ -22,7 +22,7 @@ To do this I am tasked with:
 
 ![Graph 1](images/tumor_size.png)     ![Graph 2](images/metastatic.png)
 
-![Graph 3](images/survival.png)       ![Graph 4](images/tumor_change.png)
+![Graph 3](images/survival.png)       ![Graph 4](images/tumor_change.png) 
 
 
 
