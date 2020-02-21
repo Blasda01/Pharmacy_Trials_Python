@@ -20,9 +20,13 @@ To do this I am tasked with:
 
 **Graphed Results**
 
-![Graph 1](images/tumor_size.png)     ![Graph 2](images/metastatic.png)
+![Graph 1](images/tumor_size.png)   
 
-![Graph 3](images/survival.png)       ![Graph 4](images/tumor_change.png) 
+![Graph 2](images/metastatic.png)
+
+![Graph 3](images/survival.png)      
+
+![Graph 4](images/tumor_change2.png) 
 
 
 
