@@ -26,7 +26,7 @@ To do this I am tasked with:
 
 ![Graph 3](images/survival.png)      
 
-![Graph 4](images/tumor_change2.png) 
+![Graph 4](images/tumor_change.png) 
 
 
 
